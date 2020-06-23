@@ -4,7 +4,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Teste de Git - Aula 1");
+		System.out.println("Teste de Git - Aula 2");
 
 	}
 
